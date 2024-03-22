@@ -1,5 +1,16 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300px"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mohamed-amine-iguiji-87ab65201/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:iguiji.etudes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Twitter Badge"/>
+  </a>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=iidzim&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="header" align="center">

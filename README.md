@@ -12,20 +12,30 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=iidzim&style=flat-square&color=blue" alt=""/>
 </div>
-### About me:
- * Student at 1337 School [42 Network].
-<div id="header" align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50"/>
-</div>
+
 
 About me:
 - 👋 Hi, I’m Mohamed Amine IGUIJI (kvras)
 - 🌱 I’m currently student at 1337 School [42 Network]
 - 👀 I’m a C Developer 
 - 💞️ I’m looking forward to collaborate on new projects
+### :hammer_and_wrench: Languages and Tools :
+<div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" title="bash" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
+
+<!--- </div>
+<div id="header" align="center">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50"/>
+</div>
+--->
 
 <!---
 kvras/kvras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

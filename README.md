@@ -12,7 +12,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=iidzim&style=flat-square&color=blue" alt=""/>
 </div>
-### :men_technologist: About me:
+### About me:
  * Student at 1337 School [42 Network].
 <div id="header" align="center">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="50"/>

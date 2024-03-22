@@ -1,8 +1,8 @@
+About me:
 - 👋 Hi, I’m Mohamed Amine IGUIJI (kvras)
-- 👀 I’m a Data science enthusiaste 
 - 🌱 I’m currently student at 1337 School [42 Network]
-- 💞️ I’m looking forward to collaborate on AI projects
-- 📫 Reach me on: iguiji.etudes@gmail.com 
+- 👀 I’m a C Developer 
+- 💞️ I’m looking forward to collaborate on new projects
 
 <!---
 kvras/kvras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

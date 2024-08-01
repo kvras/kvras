@@ -17,7 +17,7 @@
 About me:
 - 👋 Hi, I’m Mohamed Amine IGUIJI (kvras)
 - 🌱 I’m currently student at 1337 School [42 Network]
-- 👀 I’m a C Developer 
+- 👀 I’m a C/C++ Developer 
 - 💞️ I’m looking forward to collaborate on new projects
 ### :hammer_and_wrench: Languages and Tools :
 <div>

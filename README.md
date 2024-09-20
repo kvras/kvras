@@ -31,7 +31,7 @@ About me:
   <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" title="git" alt="git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" title="git" alt="git" width="40" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/redis-original-wordmark-icon-2045x2048-nz2tg5u6.png" title="git" alt="git" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354039/mariadb.svg" title="git" alt="git" width="40" height="40"/>
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" title="git" alt="git" width="40" height="40"/>
   
 
 ### :fire: My Stats :

@@ -27,6 +27,8 @@ About me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" title="bash" alt="bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" title="git" alt="git" width="40" height="40"/>
+  
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvras&theme=gruvbox)](https://git.io/streak-stats)

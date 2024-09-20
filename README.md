@@ -28,6 +28,8 @@ About me:
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" title="bash" alt="bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" title="git" alt="git" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" title="git" alt="git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" title="git" alt="git" width="40" height="40"/>
   
 
 ### :fire: My Stats :

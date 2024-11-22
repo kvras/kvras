@@ -22,17 +22,17 @@ About me:
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRSItUInJ8W3nY5HuLfL2zecrccNUzaP2Iw&s" title="git" alt="git" width="60" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" title="bash" alt="bash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" title="git" alt="git" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" title="git" alt="git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" title="git" alt="git" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/redis-original-wordmark-icon-2045x2048-nz2tg5u6.png" title="git" alt="git" width="40" height="40"/>
-  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" title="git" alt="git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="60" height="60"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRSItUInJ8W3nY5HuLfL2zecrccNUzaP2Iw&s" title="git" alt="git" width="80" height="60"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" title="bash" alt="bash" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>
+  <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" title="git" alt="git" width="60" height="60"/>
+  <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" title="git" alt="git" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" title="git" alt="git" width="60" height="60"/>
+  <img src="https://static-00.iconduck.com/assets.00/redis-original-wordmark-icon-2045x2048-nz2tg5u6.png" title="git" alt="git" width="60" height="60"/>
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" title="git" alt="git" width="60" height="60"/>
   
 
 ### :fire: My Stats :

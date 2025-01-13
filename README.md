@@ -16,9 +16,8 @@
 
 About me:
 - 👋 Hi, I’m Mohamed Amine (kvras)
-- 🌱 I’m currently student at 1337 School [42 Network]
-- 👀 I’m a Software Engineering student 
-- 💞️ I’m looking forward to collaborate on new projects
+- 🌱 I’m currently Software Engineering student at 1337 School [42 Network]
+- 👀 I’m looking forward to collaborate on new projects
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 

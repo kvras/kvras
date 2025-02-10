@@ -25,7 +25,7 @@ About me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="60" height="60"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRSItUInJ8W3nY5HuLfL2zecrccNUzaP2Iw&s" title="git" alt="git" width="80" height="60"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.djangoproject.com%2Fcommunity%2Flogos%2F&psig=AOvVaw3zjsViDNxTIBI8eJKZf6Jw&ust=1739313267976000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMDfqcKVuosDFQAAAAAdAAAAABAE" title="bash" alt="bash" width="60" height="60"/>
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" title="bash" alt="bash" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" title="git" alt="git" width="60" height="60"/>
   <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" title="git" alt="git" width="60" height="60"/>
